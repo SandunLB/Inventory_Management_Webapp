@@ -20,3 +20,5 @@ This project is an inventory management website built using HTML, CSS, JavaScrip
   - PHP: For server-side scripting and handling requests.
 - **Database:**
   - MySQL: For storing and managing inventory data.
+ 
+- **Still in development**
