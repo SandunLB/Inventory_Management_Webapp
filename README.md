@@ -8,7 +8,6 @@ This project is an inventory management website built using HTML, CSS, JavaScrip
 - Add new items to the inventory with relevant details.
 - Update existing items' information.
 - Delete items from the inventory.
-- Search functionality to find items quickly.
 
 ## Technologies Used
 
@@ -19,4 +18,4 @@ This project is an inventory management website built using HTML, CSS, JavaScrip
 - **Backend:**
   - PHP: For server-side scripting and handling requests.
 - **Database:**
-  - MySQL: For storing and managing inventory data.
+  - MySQL: For storing and managing inventory data
